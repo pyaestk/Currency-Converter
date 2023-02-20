@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="final_result">Amount: %s %.2f</string>
+    <string name="convert">Convert</string>
+    <string name="round_up">round up?</string>
+    <string name="jpy_yen">JPY - Yen</string>
+    <string name="thb_baht">THB - Baht</string>
+    <string name="gbp_pond_sterling">GBP - Pond Sterling</string>
+    <string name="eur_euro">EUR - Euro</string>
+    <string name="usd_dollar">USD - Dollar</string>
+    <string name="select_the_currency_type">Select the currency type</string>
+    <string name="enter_the_amount_kyat">Enter the amount(Kyat)</string>
+</resources>
